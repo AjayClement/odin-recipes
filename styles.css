@@ -1,0 +1,65 @@
+html{
+    background: url(./img/homepagebg.jpg);
+    -web-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+img.center-homepage{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+      width: 15%;
+      height: auto;
+      
+}
+
+.text-center{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color:lavenderblush;
+    font-family: 'Supermercado One', cursive;
+}
+
+div.head-class{
+    border:10px;
+    border-style:solid;
+    border-color: honeydew;
+    border-radius: 12px;
+    padding:10px;
+    margin-bottom:10px
+}
+
+div.sub-class{
+    border:10px;
+    border-style:solid;
+    border-color: rgb(238, 161, 94);
+    border-radius: 12px;
+    padding:5px;
+}
+
+h3{
+    font-size: 50px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.list-font{
+    font-size: 25px;
+    font-family: 'Comforter', cursive;
+    color: burlywood;
+}
+
+a:link,a:visited,a:hover{
+    
+    color: honeydew;
+}
+
+
+
+
+
+
